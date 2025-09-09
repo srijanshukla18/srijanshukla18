@@ -7,10 +7,10 @@ I like solving gnarly infra problems, automating the boring stuff, and making su
 
 ## 🛠️ Technologies & Tools
 - **Languages:** Python, Go, Bash, JavaScript
-- **Cloud:** AWS, GCP, Azure 
-- **Infra & Ops:** Kubernetes, Terraform, Helm, Ansible, Flux, Docker  
-- **Databases & Caches:** MySQL, PostgreSQL, Redis, MongoDB, Memcached  
-- **Obs & Debug:** Prometheus, Grafana, Loki, Tempo, VictoriaMetrics  
+- **Cloud:** AWS, GCP, Azure
+- **Infra & Ops:** Kubernetes, Terraform, Helm, Ansible, Flux, Docker 
+- **Databases & Caches:** MySQL, PostgreSQL, Redis, MongoDB, Memcached
+- **Observability:** Prometheus, Grafana, Loki, Tempo, VictoriaMetrics  
 
 ---
 
