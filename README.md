@@ -17,7 +17,9 @@ I like solving gnarly infra problems, automating the boring stuff, and making su
 ## 📌 Projects
 - **[kubectl-smart](https://github.com/srijanshukla18/kubectl-smart)** → turns noisy Kubernetes debugging into signal-first workflows.  
 - **[xray](https://github.com/srijanshukla18/xray)** → structural code intelligence for AI assistants using ast-grep.  
-- **[claude-memory-viz](https://github.com/srijanshukla18/claude-memory-viz)** → memory visualization for Anthropic’s Claude memory MCP.  
+- **[claude-memory-viz](https://github.com/srijanshukla18/claude-memory-viz)** → memory visualization for Anthropic’s Claude memory MCP.
+- **[wiki-in-a-box](https://github.com/srijanshukla18/wiki-in-a-box)** → offline wikipedia with hybrid no‑index RAG - powered by gpt-oss:20b
+
 
 ---
 
