@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Srijan
 
-I’m a **Senior Site Reliability Engineer / DevOps Engineer** with 8+ years building, scaling, and fixing multi-cloud systems across **AWS, GCP, and Azure**.  
-I like solving gnarly infra problems, automating the boring stuff, and making sure nobody loses sleep over noisy alerts.
+I’m a **builder** that builds infra, AI, or infra-AI stuff.
+8+ years building, scaling, and fixing things.
 
 ---
 
