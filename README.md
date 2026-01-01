@@ -1,7 +1,8 @@
 # 👋 Hey, I’m Srijan
 
-I’m a **builder** that builds infra, AI, or infra-AI stuff.
-8+ years building, scaling, and fixing things.
+I’m a **builder** that builds software - mostly infra, AI, or infra-AI stuff these days.
+
+Been building since May 2016.
 
 ---
 
