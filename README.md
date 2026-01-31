@@ -48,8 +48,8 @@
 
 ## 🌱 A bit more
 - Heavy action-bias. Ship first, polish later.
-- Founded LiQR (QR menus), Peekstreets (real estate AI) — quit jobs to build, multiple times.
-- Still write code. Always will.
+- Founded LiQR (QR menus), Founding engineer - Peekstreets (real estate AI)
+- Power user of LLM and adjacent tools.
 
 ---
 
