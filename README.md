@@ -48,7 +48,7 @@
 
 ## 🌱 A bit more
 - Heavy action-bias. Ship first, polish later.
-- Founded LiQR (QR menus), Founding engineer - Peekstreets (real estate AI)
+- Founded LiQR (QR menus), Founding engineer - Peekstreets (financial analyst AI)
 - Power user of LLM and adjacent tools.
 
 ---
