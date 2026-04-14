@@ -4,7 +4,7 @@ I build AI systems, agent workflows, and developer infra.
 
 Lately I’ve been deep in Claude Code, Pi Agent, codex, subagents, retrieval-first context, and turning messy workflows into fast, LLM-native tools.
 
-Been building since May 2016.
+Been building since summer of 2016.
 
 ---
 
@@ -15,8 +15,8 @@ Been building since May 2016.
 - **Data & Observability:** PostgreSQL, MySQL, Redis, MongoDB, Prometheus, Grafana, Loki, Tempo, VictoriaMetrics
 
 ## 🤖 AI build toolkit
-- **Tools:** Pi Agent, Claude Code, codex, Cursor, OpenRouter
-- **Trickery:** Subagents, Clean and Precise Context everytime, SKILL.md > MCPs for most cases.
+- Pi Agent, Claude Code, codex, OpenRouter, Hermes Agent
+- Subagents, clean and precise context every time, SKILL.md > MCPs for most cases.
 
 ---
 
