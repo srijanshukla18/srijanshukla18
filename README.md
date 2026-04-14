@@ -31,8 +31,8 @@ Been building since summer of 2016.
 | [chat-harvest](https://github.com/srijanshukla18/chat-harvest) | Local-first archive for AI chat traces across agents, designed as a substrate for DSPy/GEPA-style optimization loops. |
 | [ita-kg](https://github.com/srijanshukla18/ita-kg.git) | Knowledge-graph representation of the Indian Income Tax Act so agents can traverse section-to-section relationships explicitly. |
 | [hashlines-mcp](https://github.com/srijanshukla18/hashlines-mcp) | MCP server for hashline-anchored safe file read/edit workflows inspired by this archived write-up: https://web.archive.org/web/20260412162933/https://blog.can.ac/2026/02/12/the-harness-problem/ |
-| [contextgraph](https://github.com/srijanshukla18/contextgraph) | (WIP) decision audit ledger for AI agents - captures "why" as queryable data. |
-| [alpha](https://github.com/srijanshukla18/alpha) | (WIP) IAM policy rightsizing agent with AI-powered risk signals and instant rollback. |
+| [contextgraph](https://github.com/srijanshukla18/contextgraph) | Decision audit ledger for AI agents - captures "why" as queryable data. |
+| [alpha](https://github.com/srijanshukla18/alpha) | IAM policy rightsizing agent with AI-powered risk signals and instant rollback. |
 
 ### Infra / Systems
 
@@ -60,7 +60,7 @@ Been building since summer of 2016.
 | [podcast-watcher](https://github.com/srijanshukla18/podcast-watcher.git) | Open-source attempt to replicate Gemini-style long-form YouTube understanding: extract MP3 audio with ffmpeg, build timestamped transcripts, detect only meaningful frame changes, and feed the useful video/audio context into an LLM. I found the visual path added little value, so it effectively converged into an audio-first podcast/video understanding pipeline. |
 | [netwatchrs](https://github.com/srijanshukla18/netwatchrs.git) | Rust network diagnostics toolkit I built while debugging inconsistent Wi‑Fi and suspected service-quality issues on my own machine; the goal was to see what was actually happening under the hood instead of relying on vague network status indicators. |
 | [murmur](https://github.com/srijanshukla18/murmur.git) | Wispr Flow OSS - live streaming voice-to-text using whisper.cpp with Metal acceleration. |
-| [wiki-in-a-box](https://github.com/srijanshukla18/wiki-in-a-box) | offline wikipedia with hybrid no‑index RAG - powered by gpt-oss:20b |
+| [wiki-in-a-box](https://github.com/srijanshukla18/wiki-in-a-box) | offline Wikipedia with hybrid no‑index RAG - powered by gpt-oss:20b |
 | [claude-memory-viz](https://github.com/srijanshukla18/claude-memory-viz.git) | memory visualization for Anthropic's Claude memory MCP. |
 | [vigil](https://github.com/srijanshukla18/vigil) | Watch your codebase breathe; TUI for real-time file change monitoring with inline diffs |
 | [extract-lessons-book](https://github.com/srijanshukla18/extract-lessons-book) | Ebook/document normalizer with optional OCR and LLM-generated advice + flowcharts. It also became a practical OCR evaluation project for me: for most books, plain PDF text extraction worked better than heavy OCR, so GLM OCR ended up as a fallback reserved for noisy pages, scans, or extraction failures. |
