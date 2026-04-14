@@ -1,37 +1,40 @@
 # 👋 Hey, I’m Srijan
 
-I’m a **builder** that builds software - mostly infra, AI, or infra-AI stuff these days.
+I build AI systems, agent workflows, and developer infra.
+
+Lately I’ve been deep in Claude Code, Pi Agent, codex, subagents, retrieval-first context, and turning messy workflows into fast, LLM-native tools.
 
 Been building since May 2016.
 
 ---
 
-## 🛠️ Technologies & Tools
-- **Languages:** Python, Go, Bash, JavaScript
+## 🛠️ Stack
+- **Languages:** Python, Go, Bash, JavaScript, Rust
+- **Infra & Ops:** Kubernetes, Terraform, Helm, Docker, Ansible, Flux
 - **Cloud:** AWS, GCP, Azure
-- **Infra & Ops:** Kubernetes, Terraform, Helm, Ansible, Flux, Docker 
-- **Databases & Caches:** MySQL, PostgreSQL, Redis, MongoDB, Memcached
-- **Observability:** Prometheus, Grafana, Loki, Tempo, VictoriaMetrics  
+- **Data & Observability:** PostgreSQL, MySQL, Redis, MongoDB, Prometheus, Grafana, Loki, Tempo, VictoriaMetrics
 
-## 🛠️  LLM toolkit
-- Pi Agent || Claude Code with Opus 4.6 || codex || Cursor > everything else
-- Trickery: Subagents, Clean and Precise Context everytime, SKILL.md > MCPs for most cases.
+## 🤖 AI build toolkit
+- **Tools:** Pi Agent, Claude Code, codex, Cursor, OpenRouter
+- **Trickery:** Subagents, Clean and Precise Context everytime, SKILL.md > MCPs for most cases.
 
 ---
 
-## 📌 Projects
+## 📌 Selected Projects
 
-### AI/LLM
+### AI / Agentic workflows
 
 | Project | Description |
 |---|---|
 | [xray](https://github.com/srijanshukla18/xray) | structural code intelligence for AI assistants using ast-grep. |
-| [contextgraph](https://github.com/srijanshukla18/contextgraph) | decision audit ledger for AI agents - captures "why" as queryable data. |
-| [alpha](https://github.com/srijanshukla18/alpha) | IAM policy rightsizing agent with AI-powered risk signals and instant rollback. |
-| [claude-memory-viz](https://github.com/srijanshukla18/claude-memory-viz) | memory visualization for Anthropic's Claude memory MCP. |
-| [wiki-in-a-box](https://github.com/srijanshukla18/wiki-in-a-box) | offline wikipedia with hybrid no‑index RAG - powered by gpt-oss:20b |
+| [chorus-ai](https://github.com/srijanshukla18/chorus-ai.git) | Frontend-only LLM ensemble interface with bring-your-own OpenRouter/API keys and client-side multi-model workflows. |
+| [chat-harvest](https://github.com/srijanshukla18/chat-harvest) | Local-first archive for AI chat traces across agents, designed as a substrate for DSPy/GEPA-style optimization loops. |
+| [ita-kg](https://github.com/srijanshukla18/ita-kg.git) | Knowledge-graph representation of the Indian Income Tax Act so agents can traverse section-to-section relationships explicitly. |
+| [podcast-watcher](https://github.com/srijanshukla18/podcast-watcher.git) | Open-source long-form video understanding experiment using timestamped transcripts and sparse frame extraction to see what models can actually use. |
+| [contextgraph](https://github.com/srijanshukla18/contextgraph) | (WIP) decision audit ledger for AI agents - captures "why" as queryable data. |
+| [alpha](https://github.com/srijanshukla18/alpha) | (WIP) IAM policy rightsizing agent with AI-powered risk signals and instant rollback. |
 
-### Kubernetes/Infra
+### Infra / Systems
 
 | Project | Description |
 |---|---|
@@ -40,7 +43,7 @@ Been building since May 2016.
 | [scx-slo](https://github.com/srijanshukla18/scx-slo) | eBPF CPU scheduler enforcing latency SLOs via Earliest Deadline First. |
 | [softcron](https://github.com/srijanshukla18/softcron) | Kubernetes CronJob controller with Prometheus gating, pacing, and jitter. |
 
-### macOS
+### macOS / Local AI
 
 | Project | Description |
 |---|---|
