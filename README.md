@@ -30,7 +30,7 @@ Been building since May 2016.
 | [chorus-ai](https://github.com/srijanshukla18/chorus-ai.git) | Frontend-only LLM ensemble interface with bring-your-own OpenRouter/API keys and client-side multi-model workflows. |
 | [chat-harvest](https://github.com/srijanshukla18/chat-harvest) | Local-first archive for AI chat traces across agents, designed as a substrate for DSPy/GEPA-style optimization loops. |
 | [ita-kg](https://github.com/srijanshukla18/ita-kg.git) | Knowledge-graph representation of the Indian Income Tax Act so agents can traverse section-to-section relationships explicitly. |
-| [podcast-watcher](https://github.com/srijanshukla18/podcast-watcher.git) | Open-source long-form video understanding experiment using timestamped transcripts and sparse frame extraction to see what models can actually use. |
+| [hashlines-mcp](https://github.com/srijanshukla18/hashlines-mcp) | MCP server for hashline-anchored safe file read/edit workflows |
 | [contextgraph](https://github.com/srijanshukla18/contextgraph) | (WIP) decision audit ledger for AI agents - captures "why" as queryable data. |
 | [alpha](https://github.com/srijanshukla18/alpha) | (WIP) IAM policy rightsizing agent with AI-powered risk signals and instant rollback. |
 
