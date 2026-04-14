@@ -70,23 +70,23 @@ Been building since May 2016.
 
 | # | Project | Description |
 |---|---|---|
-| 1 | [podcast-watcher](https://github.com/srijanshukla18/podcast-watcher.git) | Podcast monitoring/ingest workflows |
-| 2 | [netwatchrs](https://github.com/srijanshukla18/netwatchrs.git) | Flattened network watcher repo (previously nested in rtchnet) |
+| 1 | [podcast-watcher](https://github.com/srijanshukla18/podcast-watcher.git) | Open-source attempt to replicate Gemini-style long-form YouTube understanding: extract MP3 audio with ffmpeg, build timestamped transcripts, detect only meaningful frame changes, and feed the useful video/audio context into an LLM. I found the visual path added little value, so it effectively converged into an audio-first podcast/video understanding pipeline. |
+| 2 | [netwatchrs](https://github.com/srijanshukla18/netwatchrs.git) | Rust network diagnostics toolkit I built while debugging inconsistent Wi-Fi and suspected service-quality issues on my own machine; the goal was to see what was actually happening under the hood instead of relying on vague network status indicators. |
 | 3 | [kubectl-smart](https://github.com/srijanshukla18/kubectl-smart.git) | turns noisy Kubernetes debugging into signal-first workflows. |
 | 4 | [softcron](https://github.com/srijanshukla18/softcron.git) | Kubernetes CronJob controller with Prometheus gating, pacing, and jitter. |
 | 5 | [logsieve](https://github.com/srijanshukla18/logsieve.git) | log deduplication sidecar using Drain3 algorithm, reduces volumes ~90%. |
 | 6 | [scx-slo](https://github.com/srijanshukla18/scx-slo.git) | eBPF CPU scheduler enforcing latency SLOs via Earliest Deadline First. |
-| 7 | [chorus-ai](https://github.com/srijanshukla18/chorus-ai.git) | LLM ensemble/choreo frontend repo |
+| 7 | [chorus-ai](https://github.com/srijanshukla18/chorus-ai.git) | Frontend-only take on the LLM ensemble pattern: bring your own API/OpenRouter key, run multi-model workflows from the client side, and experiment with model comparison/choreography without needing to stand up a backend. |
 | 8 | [alpha](https://github.com/srijanshukla18/alpha.git) | IAM policy rightsizing agent with AI-powered risk signals and instant rollback. |
 | 9 | [contextgraph](https://github.com/srijanshukla18/contextgraph.git) | decision audit ledger for AI agents - captures "why" as queryable data. |
 | 10 | [murmur](https://github.com/srijanshukla18/murmur.git) | live streaming voice-to-text using whisper.cpp with Metal acceleration. |
 | 11 | [xray](https://github.com/srijanshukla18/xray.git) | structural code intelligence for AI assistants using ast-grep. |
 | 12 | [wiki-in-a-box](https://github.com/srijanshukla18/wiki-in-a-box) | offline wikipedia with hybrid no‑index RAG - powered by gpt-oss:20b |
 | 13 | [claude-memory-viz](https://github.com/srijanshukla18/claude-memory-viz.git) | memory visualization for Anthropic's Claude memory MCP. |
-| 14 | [ita-kg](https://github.com/srijanshukla18/ita-kg.git) | Inactive-seen-its-fate repo |
+| 14 | [ita-kg](https://github.com/srijanshukla18/ita-kg.git) | Learning project to understand knowledge graphs by ingesting the Indian Income Tax Act into graph form, where every section-to-section reference becomes an explicit relationship that an AI agent can traverse, query, and reason over. |
 | 15 | [vigil](https://github.com/srijanshukla18/vigil) | Watch your codebase breathe; TUI for real-time file change monitoring with inline diffs |
-| 16 | [extract-lessons-book](https://github.com/srijanshukla18/extract-lessons-book) | Ebook/document normalizer with optional OCR and LLM-generated advice + flowcharts |
-| 17 | [chat-harvest](https://github.com/srijanshukla18/chat-harvest) | Local-first CLI to import/normalize AI chat transcripts into a single archive |
+| 16 | [extract-lessons-book](https://github.com/srijanshukla18/extract-lessons-book) | Ebook/document normalizer with optional OCR and LLM-generated advice + flowcharts. It also became a practical OCR evaluation project for me: for most books, plain PDF text extraction worked better than heavy OCR, so GLM OCR ended up as a fallback reserved for noisy pages, scans, or extraction failures. |
+| 17 | [chat-harvest](https://github.com/srijanshukla18/chat-harvest) | Local-first CLI to import and normalize AI chat transcripts from multiple agents into a single archive; I want to use it as the substrate for running DSPy/GEPA-style optimization loops over my own LLM chat traces. |
 | 18 | [hashlines-mcp](https://github.com/srijanshukla18/hashlines-mcp) | MCP server for hashline-anchored safe file read/edit workflows |
 
 ### Private Repos (13)
