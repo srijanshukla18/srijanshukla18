@@ -53,8 +53,6 @@ Been building since May 2016.
 
 ---
 
-## Project Inventory
-
 ### Other Fun Projects
 
 | Project | Description |
