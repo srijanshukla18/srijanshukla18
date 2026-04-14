@@ -14,30 +14,37 @@ Been building since May 2016.
 - **Observability:** Prometheus, Grafana, Loki, Tempo, VictoriaMetrics  
 
 ## 🛠️  LLM toolkit
-- Claude Code with Opus 4.5 > codex || Cursor > everything else
-- Trickery: Subagents, Clean and Precise context everytime, great MCPs
+- Pi Agent || Claude Code with Opus 4.6 || codex || Cursor > everything else
+- Trickery: Subagents, Clean and Precise Context everytime, SKILL.md > MCPs for most cases.
 
 ---
 
 ## 📌 Projects
 
 ### AI/LLM
-- **[xray](https://github.com/srijanshukla18/xray)** → structural code intelligence for AI assistants using ast-grep.
-- **[contextgraph](https://github.com/srijanshukla18/contextgraph)** → decision audit ledger for AI agents - captures "why" as queryable data.
-- **[alpha](https://github.com/srijanshukla18/alpha)** → IAM policy rightsizing agent with AI-powered risk signals and instant rollback.
-- **[claude-memory-viz](https://github.com/srijanshukla18/claude-memory-viz)** → memory visualization for Anthropic's Claude memory MCP.
-- **[wiki-in-a-box](https://github.com/srijanshukla18/wiki-in-a-box)** → offline wikipedia with hybrid no‑index RAG - powered by gpt-oss:20b
-- **[global-publish](https://github.com/srijanshukla18/global-publish)** → generates platform-native content for 12 platforms from a single source.
+
+| Project | Description |
+|---|---|
+| [xray](https://github.com/srijanshukla18/xray) | structural code intelligence for AI assistants using ast-grep. |
+| [contextgraph](https://github.com/srijanshukla18/contextgraph) | decision audit ledger for AI agents - captures "why" as queryable data. |
+| [alpha](https://github.com/srijanshukla18/alpha) | IAM policy rightsizing agent with AI-powered risk signals and instant rollback. |
+| [claude-memory-viz](https://github.com/srijanshukla18/claude-memory-viz) | memory visualization for Anthropic's Claude memory MCP. |
+| [wiki-in-a-box](https://github.com/srijanshukla18/wiki-in-a-box) | offline wikipedia with hybrid no‑index RAG - powered by gpt-oss:20b |
 
 ### Kubernetes/Infra
-- **[kubectl-smart](https://github.com/srijanshukla18/kubectl-smart)** → turns noisy Kubernetes debugging into signal-first workflows.
-- **[logsieve](https://github.com/srijanshukla18/logsieve)** → log deduplication sidecar using Drain3 algorithm, reduces volumes ~90%.
-- **[scx-slo](https://github.com/srijanshukla18/scx-slo)** → eBPF CPU scheduler enforcing latency SLOs via Earliest Deadline First.
-- **[softcron](https://github.com/srijanshukla18/softcron)** → Kubernetes CronJob controller with Prometheus gating, pacing, and jitter.
-- **[cloud-bloom](https://github.com/srijanshukla18/cloud-bloom)** → self-replicating Terraform quine - Lambda that recursively spawns infrastructure.
+
+| Project | Description |
+|---|---|
+| [kubectl-smart](https://github.com/srijanshukla18/kubectl-smart) | turns noisy Kubernetes debugging into signal-first workflows. |
+| [logsieve](https://github.com/srijanshukla18/logsieve) | log deduplication sidecar using Drain3 algorithm, reduces volumes ~90%. |
+| [scx-slo](https://github.com/srijanshukla18/scx-slo) | eBPF CPU scheduler enforcing latency SLOs via Earliest Deadline First. |
+| [softcron](https://github.com/srijanshukla18/softcron) | Kubernetes CronJob controller with Prometheus gating, pacing, and jitter. |
 
 ### macOS
-- **[murmur](https://github.com/srijanshukla18/murmur)** → live streaming voice-to-text using whisper.cpp with Metal acceleration.
+
+| Project | Description |
+|---|---|
+| [murmur](https://github.com/srijanshukla18/murmur) | live streaming voice-to-text using whisper.cpp with Metal acceleration. |
 
 
 ---
