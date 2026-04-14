@@ -30,7 +30,7 @@ Been building since May 2016.
 | [chorus-ai](https://github.com/srijanshukla18/chorus-ai.git) | Frontend-only LLM ensemble interface with bring-your-own OpenRouter/API keys and client-side multi-model workflows. |
 | [chat-harvest](https://github.com/srijanshukla18/chat-harvest) | Local-first archive for AI chat traces across agents, designed as a substrate for DSPy/GEPA-style optimization loops. |
 | [ita-kg](https://github.com/srijanshukla18/ita-kg.git) | Knowledge-graph representation of the Indian Income Tax Act so agents can traverse section-to-section relationships explicitly. |
-| [hashlines-mcp](https://github.com/srijanshukla18/hashlines-mcp) | MCP server for hashline-anchored safe file read/edit workflows |
+| [hashlines-mcp](https://github.com/srijanshukla18/hashlines-mcp) | MCP server for hashline-anchored safe file read/edit workflows based on (https://blog.can.ac/2026/02/12/the-harness-problem/) |
 | [contextgraph](https://github.com/srijanshukla18/contextgraph) | (WIP) decision audit ledger for AI agents - captures "why" as queryable data. |
 | [alpha](https://github.com/srijanshukla18/alpha) | (WIP) IAM policy rightsizing agent with AI-powered risk signals and instant rollback. |
 
@@ -76,4 +76,4 @@ Been building since May 2016.
 | 15 | [vigil](https://github.com/srijanshukla18/vigil) | Watch your codebase breathe; TUI for real-time file change monitoring with inline diffs |
 | 16 | [extract-lessons-book](https://github.com/srijanshukla18/extract-lessons-book) | Ebook/document normalizer with optional OCR and LLM-generated advice + flowcharts. It also became a practical OCR evaluation project for me: for most books, plain PDF text extraction worked better than heavy OCR, so GLM OCR ended up as a fallback reserved for noisy pages, scans, or extraction failures. |
 | 17 | [chat-harvest](https://github.com/srijanshukla18/chat-harvest) | Local-first CLI to import and normalize AI chat transcripts from multiple agents into a single archive; I want to use it as the substrate for running DSPy/GEPA-style optimization loops over my own LLM chat traces. |
-| 18 | [hashlines-mcp](https://github.com/srijanshukla18/hashlines-mcp) | MCP server for hashline-anchored safe file read/edit workflows |
+| 18 | [hashlines-mcp](https://github.com/srijanshukla18/hashlines-mcp) | MCP server for hashline-anchored safe file read/edit workflows based on (https://blog.can.ac/2026/02/12/the-harness-problem/) |
